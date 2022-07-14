@@ -26,5 +26,13 @@ console.log(!!(isAtivo = false));
 console.log("Para finalizar ...");
 console.log(!!("" || null || 0 || "teste"));
 
+<<<<<<< HEAD:booleanos.js
 let nome = "Lucas";
 console.log(nome || "nome desconhecido");
+=======
+console.log("Para finalizar ...")
+console.log(!!("" || null || 0 || "teste"))
+
+let nome = "Lucas"
+console.log(nome || "nome desconhecido")
+>>>>>>> b732d999f4f95a327befea8cd19a998a6692fbec:Fundamentos/booleanos.js

@@ -17,6 +17,12 @@ console.log(!!produto.preco);
 // delete produto.preco
 console.log(produto);
 
+<<<<<<< HEAD:nullUndefined.js
 produto.preco = null; // sem preço
 console.log(!!produto.preco);
 console.log(produto);
+=======
+produto.preco = null // sem preço
+console.log(!!produto.preco)
+console.log(produto)
+>>>>>>> b732d999f4f95a327befea8cd19a998a6692fbec:Fundamentos/nullUndefined.js
